@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="write_note_hint">Write note:</string>
+    <string name="low_radioButton">Low</string>
+    <string name="medium_radioButton">Medium</string>
+    <string name="high_radioButton">High</string>
+    <string name="save_button">Save</string>
+    <string name="alert">Введите заметку!</string>
+</resources>
