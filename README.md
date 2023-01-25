@@ -23,3 +23,7 @@
 3) Обновленный список
 
 ![image](https://user-images.githubusercontent.com/79704293/214617555-5ebf9bbe-f155-454b-90b4-267c220c4eeb.png)
+
+4) Удаление заметки(в приложении происходит с помощью свайпа заметки влево или вправо)
+
+![image](https://user-images.githubusercontent.com/79704293/214617884-311291f6-2c49-4b0f-a2cd-b99291472a61.png)
